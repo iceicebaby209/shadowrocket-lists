@@ -13,6 +13,29 @@ DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.com
@@ -269,7 +292,6 @@ DOMAIN-SUFFIX,community.sophos.com
 DOMAIN-SUFFIX,intelix.sophos.com
 DOMAIN-SUFFIX,platform.acti
 DOMAIN-SUFFIX,showip.net
-DOMAIN-SUFFIX,ua
 DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,simplex.chat
@@ -325,24 +347,6 @@ DOMAIN-SUFFIX,protonvpn.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,tiptop-vpn.com
 
-DOMAIN-SUFFIX,scryde.ru
-DOMAIN-SUFFIX,scryde.net
-DOMAIN-SUFFIX,scryde1.net
-DOMAIN-SUFFIX,scryde2.net
-DOMAIN-SUFFIX,scryde3.net
-DOMAIN-SUFFIX,scryde4.net
-DOMAIN-SUFFIX,scryde5.net
-DOMAIN-SUFFIX,scryde6.net
-DOMAIN-SUFFIX,scryde7.net
-DOMAIN-SUFFIX,scryde8.net
-DOMAIN-SUFFIX,scryde9.net
-DOMAIN-SUFFIX,scryde10.net
-DOMAIN-SUFFIX,scryde11.net
-DOMAIN-SUFFIX,scryde12.net
-DOMAIN-SUFFIX,ruscryde.net
-DOMAIN-SUFFIX,scryde.io
-DOMAIN-SUFFIX,scryde.world
-
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,designify.com
 DOMAIN-SUFFIX,ntc.party
@@ -364,7 +368,6 @@ DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,academy.terrasoft.ua
 DOMAIN-SUFFIX,saverudata.net
 DOMAIN-SUFFIX,mail-api.proton.me
-DOMAIN-SUFFIX,olx.ua
 DOMAIN-SUFFIX,gamesrepack.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,prnt.sc
@@ -456,7 +459,6 @@ DOMAIN-SUFFIX,onlinesim.io
 DOMAIN-SUFFIX,pimpletv.ru
 DOMAIN-SUFFIX,f95-zone.to
 DOMAIN-SUFFIX,proton.me
-DOMAIN-SUFFIX,ukrtelcdn.net
 DOMAIN-SUFFIX,render-state.to
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,aol.com
