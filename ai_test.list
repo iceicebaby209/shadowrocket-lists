@@ -1,0 +1,30 @@
+# Gemini
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,notebooklm.cloud.google.com
+
+#Chat Gpt
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,comet.com
+DOMAIN-SUFFIX,apiyi.com
+
+#Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+#Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+#Manus
+DOMAIN-SUFFIX,manus-ai.com
+DOMAIN-SUFFIX,manus.ai
+DOMAIN-SUFFIX,manus.run
+
+#Genspark
+DOMAIN-SUFFIX,genspark.ai
