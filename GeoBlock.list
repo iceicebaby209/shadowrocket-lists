@@ -35,11 +35,22 @@ DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion-emojis.s3-us-west-2.amazonaws.com
 DOMAIN-SUFFIX,code.gist.build
 
-
-DOMAIN-SUFFIX,intel.com
-DOMAIN-SUFFIX,intel.de
-DOMAIN-SUFFIX,intel.nl
-DOMAIN-SUFFIX,geolocation.onetrust.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX.muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokv.eu
 
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,terraform.io
@@ -52,13 +63,6 @@ DOMAIN-SUFFIX,tmdb.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
-
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,myjetbrains.com
-DOMAIN-SUFFIX,jetbrains.space
-DOMAIN-SUFFIX,api.jetbrains.ai
-DOMAIN-SUFFIX,youtrack.cloud
-DOMAIN-SUFFIX,toolbox.app
 
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashofclans.com
@@ -164,7 +168,7 @@ DOMAIN-SUFFIX,alza.hu
 DOMAIN-SUFFIX,kinogo.la
 DOMAIN-SUFFIX,flir.com
 DOMAIN-SUFFIX,flir.eu
-DOMAIN-SUFFIX,newsroom.porsche.com
+DOMAIN-SUFFIX,porsche.com
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,middlewareinventory.com
 DOMAIN-SUFFIX,telemetr.io
@@ -197,7 +201,7 @@ DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,sdxcentral.com
 DOMAIN-SUFFIX,premierleague.com
-DOMAIN-SUFFIX,footballapi.pulselive.com
+DOMAIN-SUFFIX,pulselive.com
 DOMAIN-SUFFIX,hotels.com
 DOMAIN-SUFFIX,plugshare.com
 DOMAIN-SUFFIX,volkswagen-classic-parts.com
