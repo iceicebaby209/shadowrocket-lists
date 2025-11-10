@@ -319,6 +319,11 @@ DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,vpnpay.io
 DOMAIN-SUFFIX,protonvpn.com
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,simplelogin.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,tiptop-vpn.com
 
@@ -342,7 +347,6 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,academy.terrasoft.ua
 DOMAIN-SUFFIX,saverudata.net
-DOMAIN-SUFFIX,mail-api.proton.me
 DOMAIN-SUFFIX,gamesrepack.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,prnt.sc
@@ -432,7 +436,6 @@ DOMAIN-SUFFIX,7tv.io
 DOMAIN-SUFFIX,onlinesim.io
 DOMAIN-SUFFIX,pimpletv.ru
 DOMAIN-SUFFIX,f95-zone.to
-DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,render-state.to
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,aol.com
