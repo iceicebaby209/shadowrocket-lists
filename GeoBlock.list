@@ -1,9 +1,7 @@
 DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,4pda.ws
 DOMAIN-SUFFIX,habr.com
-DOMAIN-SUFFIX,deepl.com
-DOMAIN,www.deepl.com
-
+DOMAIN-WILDCARD,*deepl.com
 
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -27,7 +25,6 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
-
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.com
