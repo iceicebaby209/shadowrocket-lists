@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,notebooklm.cloud.google.com
+DOMAIN,aistudio.google.com
 
 #Chat Gpt
 DOMAIN-SUFFIX,openai.com
