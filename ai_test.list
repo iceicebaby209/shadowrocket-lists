@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,notebooklm.cloud.google.com
 DOMAIN,aistudio.google.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,run.app
+DOMAIN,antigravity-unleash.goog
+DOMAIN,antigravity.google
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 
 #Chat Gpt
 DOMAIN-SUFFIX,openai.com
