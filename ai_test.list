@@ -5,13 +5,14 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN,notebooklm.cloud.google.com
-DOMAIN,aistudio.google.com
-DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.cloud.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,run.app
-DOMAIN,antigravity-unleash.goog
-DOMAIN,antigravity.google
-DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,clients6.google.com
 
 #Chat Gpt
 DOMAIN-SUFFIX,openai.com
