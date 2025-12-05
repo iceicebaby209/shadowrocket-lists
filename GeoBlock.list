@@ -4,28 +4,10 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-WILDCARD,*deepl.com
 DOMAIN-WILDCARD,*coreldraw.com
 
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitterflightschool.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.com
@@ -133,8 +115,6 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,lambdalabs.com
 DOMAIN-SUFFIX,grafana.com
-DOMAIN-SUFFIX,xtracloud.net
-DOMAIN-SUFFIX,glpals.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,reactflow.dev
 DOMAIN-SUFFIX,netlify.com
