@@ -57,21 +57,6 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,xboxlive.com
 
-DOMAIN-SUFFIX,salesforce.com
-DOMAIN-SUFFIX,salesforceiq.com
-DOMAIN-SUFFIX,force.com
-DOMAIN-SUFFIX,force-user-content.com
-DOMAIN-SUFFIX,salesforceliveagent.com
-DOMAIN-SUFFIX,salesforce-experience.com
-DOMAIN-SUFFIX,salesforce-hub.com
-DOMAIN-SUFFIX,salesforce-scrt.com
-DOMAIN-SUFFIX,salesforce-setup.com
-DOMAIN-SUFFIX,salesforce-sites.com
-DOMAIN-SUFFIX,sfdcopens.com
-DOMAIN-SUFFIX,site.com
-DOMAIN-SUFFIX,trailblazer.me
-DOMAIN-SUFFIX,trailhead.com
-
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
@@ -86,16 +71,11 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 DOMAIN-SUFFIX,autodesk.com
-DOMAIN-SUFFIX,cdn.web-platform.io
-
-DOMAIN-SUFFIX,assets.heroku.com
-DOMAIN-SUFFIX,herokucdn.com
 
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,primevideo.com
 
 DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,omnissa.com
 
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gfn.am
@@ -112,18 +92,9 @@ DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallelsaccess.com
 
 DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,servarr.com
-DOMAIN-SUFFIX,lambdalabs.com
 DOMAIN-SUFFIX,grafana.com
-DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,reactflow.dev
-DOMAIN-SUFFIX,netlify.com
-DOMAIN-SUFFIX,bell-sw.com
-DOMAIN-SUFFIX,graylog.org
-DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,ibm.com
-DOMAIN-SUFFIX,swagger.io
-DOMAIN-SUFFIX,smartbear.co
 DOMAIN-SUFFIX,snort.org
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redislabs.com
@@ -538,3 +509,4 @@ DOMAIN-SUFFIX,hidemyass.com
 DOMAIN-SUFFIX,wetransfer.com
 DOMAIN-SUFFIX,wetransfer.net
 DOMAIN-SUFFIX,we.tl
+DOMAIN-SUFFIX,duckdns.org
