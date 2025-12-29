@@ -82,3 +82,12 @@ DOMAIN-SUFFIX,iot334.com
 DOMAIN-SUFFIX,wbagora.com
 DOMAIN-SUFFIX,wbinsights.com
 DOMAIN-SUFFIX,wbgames.com
+
+DOMAIN-SUFFIX,capcutstatic.com
+DOMAIN-SUFFIX,capcutvod.com
+
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,cdn-lfs.hf.co
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
+DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co
