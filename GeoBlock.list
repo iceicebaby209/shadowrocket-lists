@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,paddle.com
+DOMAIN-SUFFIX,paddle.net
+DOMAIN-SUFFIX,paddlebilling.com
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.com
