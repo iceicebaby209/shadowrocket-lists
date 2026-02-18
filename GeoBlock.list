@@ -21,6 +21,11 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddle.net
 DOMAIN-SUFFIX,paddlebilling.com
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,tx.me
 
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.com
