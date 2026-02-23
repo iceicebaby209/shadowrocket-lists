@@ -24,6 +24,12 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,comet.com
 DOMAIN-SUFFIX,apiyi.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 
 #Claude
 DOMAIN-SUFFIX,anthropic.com
