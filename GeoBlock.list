@@ -494,7 +494,11 @@ DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripepayments.com
+DOMAIN-SUFFIX,stripeassets.com
 DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripe-js.com
+DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
 DOMAIN-SUFFIX,spotify.com
