@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,4pda.to
+strDOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,4pda.ws
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,deepl.com
@@ -534,3 +534,9 @@ DOMAIN-SUFFIX,cdn.prod.website-files.com
 DOMAIN-SUFFIX,ether.fi
 DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,coca.xyz
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,business.wallet.dtcpay.com
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,trust.wallet
