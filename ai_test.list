@@ -1,22 +1,32 @@
 # Gemini
 DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.dev
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,run.app
-DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,makersuite.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN,gemini.google.com
+DOMAIN,notebooklm.google.com
+DOMAIN,clients6.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,jules.google
-DOMAIN-SUFFIX,jules.google.com
+DOMAIN,jules.google.com
 DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,stitch.withgoogle.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,stitch.withgoogle.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,aida.googleapis.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,speechs3proto2-pa.googleapis.com
 
 #Chat Gpt
 DOMAIN-SUFFIX,openai.com
